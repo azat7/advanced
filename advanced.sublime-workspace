@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"e",
+				"expert"
+			],
+			[
+				"na",
+				"namespace"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"n",
+				"numDonuts"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"p",
+				"pickupminutes"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"sub",
+				"subTotal"
+			],
+			[
+				"nam",
+				"namGlazedDonuts"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"reg",
+				"regForm"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"r",
+				"required"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"M",
+				"myImage"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"PHP",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/AppServ/www/profi/crmapp/vendor/fzaninotto/faker/src/Faker/Factory.php",
+		"/C/AppServ/www/profi/crmapp/tests/_support/AcceptanceTester.php",
+		"/C/AppServ/www/profi/crmapp/tests/_support/_generated/AcceptanceTesterActions.php",
+		"/C/AppServ/Apache24/conf/httpd.conf",
+		"/C/AppServ/Apache24/conf/original/httpd.conf",
+		"/C/AppServ/www/profi/crmapp/vendor/bin/codecept",
+		"/C/AppServ/www/profi/crmapp/vendor/codeception/codeception/codecept",
+		"/C/AppServ/www/profi/crmapp/index.php",
+		"/C/AppServ/www/profi/crmapp/tests/unit.suite.yml",
+		"/C/AppServ/www/profi/crmapp/tests/acceptance.suite.yml",
+		"/C/AppServ/www/profi/crmapp/composer.json",
+		"/C/AppServ/www/profi/advanced/frontend/web/index.php",
+		"/D/program/deploy.bat",
+		"/D/program/putty.org.ru/PuTTY/deploy.sh",
+		"/C/Users/азат/magento/readme.txt",
+		"/C/Users/азат/Gitcode/index.txt",
+		"/C/AppServ/www/Yii2/cms/config/db.php",
+		"/C/AppServ/www/profi/advanced/console/migrations/m130524_201442_init.php",
+		"/C/AppServ/www/profi/advanced/backend/config/main.php",
+		"/C/AppServ/www/profi/advanced/backend/config/main-local.php",
+		"/C/AppServ/www/profi/advanced/console/config/main.php",
+		"/C/AppServ/www/profi/advanced/console/config/main-local.php",
+		"/C/AppServ/www/profi/advanced/environments/prod/console/config/params-local.php",
+		"/C/AppServ/www/profi/advanced/environments/prod/console/config/main-local.php",
+		"/C/AppServ/www/profi/advanced/environments/prod/frontend/config/main-local.php",
+		"/C/AppServ/www/profi/advanced/environments/prod/backend/config/main-local.php",
+		"/C/AppServ/www/auction/console/config/console.php",
+		"/C/AppServ/www/magento/.htaccess",
+		"/C/AppServ/www/Yii2sub.sublime-project",
+		"/C/AppServ/www/Yii2/css/style-list-prod.css",
+		"/C/AppServ/www/Yii2/index.php",
+		"/C/AppServ/www/Yii2/cms/assets/AppAsset.php",
+		"/C/AppServ/www/Yii2/cms/controllers/SiteController.php",
+		"/C/AppServ/www/Yii2/cms/views/layouts/main.php",
+		"/C/AppServ/www/Yii2/cms/views/page/catalog.php",
+		"/C/AppServ/www/Yii2/cms/controllers/PageController.php",
+		"/C/AppServ/www/Yii2/css/style.css",
+		"/C/AppServ/www/Yii2/css/site.css",
+		"/C/AppServ/www/Yii2/cms/config/web.php",
+		"/C/AppServ/www/Yii2/cms/views/layouts/default.php",
+		"/C/AppServ/www/Yii2/cms/views/site/index.php",
+		"/C/AppServ/www/Yii2/cms/views/page/room.php",
+		"/C/AppServ/www/Yii2/cms/views/page/login.php",
+		"/C/AppServ/www/Yii2/cms/views/page/link.php",
+		"/C/AppServ/www/Yii2/cms/vendor/autoload.php",
+		"/C/AppServ/www/Yii2/web/index.php",
+		"/C/AppServ/www/Yii2/cms/controllers/SiteControllers.php",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/_header.php",
+		"/C/AppServ/www/auction/frontend/www/index.php",
+		"/C/AppServ/www/auction/frontend/controllers/AuctionController.php",
+		"/C/AppServ/www/auction/frontend/widgets/citySelector/views/index.php",
+		"/C/AppServ/www/auction/frontend/www/bootstrap/js/bootstrap.js",
+		"/C/AppServ/www/auction/frontend/www/bootstrap/js/bootstrap.min.js",
+		"/C/AppServ/www/auction/frontend/www/bootstrap/js/npm.js",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/settings.php",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/main.php",
+		"/C/AppServ/www/auction/frontend/controllers/BanController.php",
+		"/C/AppServ/www/auction/frontend/messages/ru/basic.php",
+		"/C/AppServ/www/auction/frontend/helpers/GridView.php",
+		"/C/AppServ/www/auction/frontend/helpers/Item.php",
+		"/C/AppServ/www/auction/frontend/controllers/SiteController.php",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/common.php",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/auction.php",
+		"/C/AppServ/www/auction/backend/modules/catalog/views/auction/_scripts_lot.php",
+		"/C/AppServ/www/auction/frontend/helpers/Cookie.php",
+		"/C/AppServ/www/auction/frontend/controllers/PageController.php",
+		"/C/AppServ/www/auction/backend/controllers/SiteController.php",
+		"/C/AppServ/www/auction/backend/controllers/MainController.php",
+		"/C/AppServ/www/auction/frontend/www/themes/default/views/layouts/static.php",
+		"/C/AppServ/www/auction/common/config/main.php",
+		"/C/AppServ/www/auction/common/config/env.php",
+		"/C/AppServ/www/Yii2/web/my.js",
+		"/C/AppServ/www/Yii2/web/donuts.css",
+		"/C/AppServ/www/Yii2/web/donuts.php",
+		"/C/java/program.java",
+		"/C/AppServ/www/Yii2/web/style.css3",
+		"/C/AppServ/www/Yii2/cms/views/page/listproducts.php",
+		"/C/AppServ/www/Yii2/cms/views/page/contacts.php",
+		"/C/AppServ/www/Yii2/cms/views/page/news.php",
+		"/C/AppServ/www/Yii2/views/layouts/default.php",
+		"/C/AppServ/www/Yii2/views/layouts/main.php",
+		"/C/AppServ/www/Yii2/config/web.php",
+		"/C/AppServ/www/Yii2/vendor/yiisoft/yii2-bootstrap/NavBar.php",
+		"/C/AppServ/www/Yii2/web/css/style-list-prod.css",
+		"/D/Yii шаблон/list-prod.html",
+		"/C/AppServ/www/Yii2/assets/DefaultAsset.php",
+		"/C/AppServ/www/Yii2/views/page/listproducts.php",
+		"/C/AppServ/www/Yii2/controllers/PageController.php",
+		"/C/AppServ/www/Yii2/views/site/contact.php",
+		"/C/AppServ/www/Yii2/controllers/SiteController.php",
+		"/D/Yii шаблон/index.html",
+		"/C/js/more",
+		"/C/js/index.html",
+		"/G/учеба/StartUp/time/view/about_view.php",
+		"/C/AppServ/www/cilessons/application/.htaccess.htaccess",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/views/pages/about.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/views/pages/home.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/views/templates/footer.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/views/templates/header.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/index.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/config/routes.php",
+		"/C/AppServ/www/project/CodeIgniter-3.1.6/application/controllers/pages.php",
+		"/C/AppServ/www/index.php",
+		"/C/AppServ/www/image.html",
+		"/C/wamp/www/guly.dev/www/.htaccess",
+		"/C/wamp/apps/phpmyadmin4.1.14/config.inc.php",
+		"/C/WebServers/home/localhost/www/Time.ru/index.php",
+		"/C/wamp/www/guly.dev/www/index.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/guly.dev/www/index.html",
+		"/C/WebServers/home/localhost/www/Time.ru/phpinfo.php",
+		"/C/Users/азат/AppData/Local/Temp/fz3temp-2/indexx.php",
+		"/C/Users/азат/AppData/Local/Temp/fz3temp-2/index.php",
+		"/Z/home/localhost/www/index.php",
+		"/C/wamp/www/guly.dev/index.html",
+		"/C/wamp/www/guly.dev/Новый текстовый документ.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"simple_img",
+			"active",
+			"images",
+			"image",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
