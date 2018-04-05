@@ -36,6 +36,14 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
+        'geolocation' => [
+            'class' => 'rodzadra\geolocation\Geolocation',
+            'config' => [
+                'provider' => '[geoplugin]',
+                'return_formats' => ['json','php','xml'],
+                'api_key' => '',
+            ],
+        ],
         /*
         'urlManager' => [
             'enablePrettyUrl' => true,

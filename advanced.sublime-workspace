@@ -147,6 +147,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "frontend/config/main.php",
+			"settings":
+			{
+				"buffer_size": 1689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 2322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/views/site/index.php",
+			"settings":
+			{
+				"buffer_size": 2351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/views/site/about.php",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/config/main.php",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/views/site/login.php",
+			"settings":
+			{
+				"buffer_size": 995,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -184,6 +232,27 @@
 	},
 	"file_history":
 	[
+		"/C/AppServ/www/profi/advanced/backend/config/main-local.php",
+		"/C/AppServ/www/profi/advanced/vagrant/nginx/log/.gitignore",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/plugins/geoplugin.php",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/Geolocation.php",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/plugins/geoips.php",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/plugins/ippycox.php",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/plugins/ipapi.php",
+		"/C/AppServ/www/profi/advanced/frontend/controllers/SiteController.php",
+		"/C/AppServ/www/profi/advanced/frontend/views/layouts/main.php",
+		"/C/AppServ/www/profi/advanced/frontend/config/main.php",
+		"/C/AppServ/www/profi/advanced/frontend/views/site/index.php",
+		"/C/AppServ/www/profi/advanced/frontend/web/index.php",
+		"/C/AppServ/www/profi/advanced/frontend/codeception.yml",
+		"/C/AppServ/www/profi/advanced/console/controllers/.gitkeep",
+		"/C/AppServ/www/profi/advanced/backend/controllers/SiteController.php",
+		"/C/AppServ/www/profi/advanced/yii",
+		"/C/AppServ/www/profi/advanced/vendor/rodzadra/geolocation/README.md",
+		"/C/AppServ/www/profi/advanced/common/config/main.php",
+		"/C/AppServ/www/profi/advanced/backend/config/main.php",
+		"/C/AppServ/www/profi/advanced/console/config/main.php",
+		"/C/AppServ/www/profi/advanced/composer.json",
 		"/C/AppServ/www/profi/crmapp/vendor/fzaninotto/faker/src/Faker/Factory.php",
 		"/C/AppServ/www/profi/crmapp/tests/_support/AcceptanceTester.php",
 		"/C/AppServ/www/profi/crmapp/tests/_support/_generated/AcceptanceTesterActions.php",
@@ -195,16 +264,12 @@
 		"/C/AppServ/www/profi/crmapp/tests/unit.suite.yml",
 		"/C/AppServ/www/profi/crmapp/tests/acceptance.suite.yml",
 		"/C/AppServ/www/profi/crmapp/composer.json",
-		"/C/AppServ/www/profi/advanced/frontend/web/index.php",
 		"/D/program/deploy.bat",
 		"/D/program/putty.org.ru/PuTTY/deploy.sh",
 		"/C/Users/азат/magento/readme.txt",
 		"/C/Users/азат/Gitcode/index.txt",
 		"/C/AppServ/www/Yii2/cms/config/db.php",
 		"/C/AppServ/www/profi/advanced/console/migrations/m130524_201442_init.php",
-		"/C/AppServ/www/profi/advanced/backend/config/main.php",
-		"/C/AppServ/www/profi/advanced/backend/config/main-local.php",
-		"/C/AppServ/www/profi/advanced/console/config/main.php",
 		"/C/AppServ/www/profi/advanced/console/config/main-local.php",
 		"/C/AppServ/www/profi/advanced/environments/prod/console/config/params-local.php",
 		"/C/AppServ/www/profi/advanced/environments/prod/console/config/main-local.php",
@@ -294,12 +359,7 @@
 		"/C/wamp/www/guly.dev/www/index.php",
 		"/C/wamp/www/index.php",
 		"/C/wamp/www/guly.dev/www/index.html",
-		"/C/WebServers/home/localhost/www/Time.ru/phpinfo.php",
-		"/C/Users/азат/AppData/Local/Temp/fz3temp-2/indexx.php",
-		"/C/Users/азат/AppData/Local/Temp/fz3temp-2/index.php",
-		"/Z/home/localhost/www/index.php",
-		"/C/wamp/www/guly.dev/index.html",
-		"/C/wamp/www/guly.dev/Новый текстовый документ.txt"
+		"/C/WebServers/home/localhost/www/Time.ru/phpinfo.php"
 	],
 	"find":
 	{
@@ -339,8 +399,175 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "frontend/config/main.php",
+					"settings":
+					{
+						"buffer_size": 1689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1450,
+								1450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frontend/views/layouts/main.php",
+					"settings":
+					{
+						"buffer_size": 2322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2242,
+								2242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frontend/views/site/index.php",
+					"settings":
+					{
+						"buffer_size": 2351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2172,
+								2172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "frontend/views/site/about.php",
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "backend/config/main.php",
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "backend/views/site/login.php",
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
