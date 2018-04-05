@@ -19,7 +19,9 @@
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
         "rodzadra/geolocation": "*",
-        "phpnt/yandex-map": "*"
+        "phpnt/yandex-map": "*",
+        "phpnt/yii2-sypexgeo": "dev-master",
+        "jisoft/yii2-sypexgeo": "*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",

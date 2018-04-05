@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "91a9384b3bccaf25ff5454e8accc49f6",
+    "content-hash": "14aa6ea5a73c26f30c9fc68432a5e74b",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -215,6 +215,58 @@
             "time": "2018-02-23T01:58:20+00:00"
         },
         {
+            "name": "jisoft/yii2-sypexgeo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/JiSoft/yii2-sypexgeo.git",
+                "reference": "faa8930cbebc183014cb653827508e9b187ed4c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/JiSoft/yii2-sypexgeo/zipball/faa8930cbebc183014cb653827508e9b187ed4c1",
+                "reference": "faa8930cbebc183014cb653827508e9b187ed4c1",
+                "shasum": ""
+            },
+            "require": {
+                "yiisoft/yii2": "*"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "jisoft\\sypexgeo\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "zapimir",
+                    "email": "zapimir@zapimir.net"
+                },
+                {
+                    "name": "BINOVATOR",
+                    "email": "info@sypex.net"
+                },
+                {
+                    "name": "jisoft",
+                    "email": "jisoft.dn@gmail.com"
+                }
+            ],
+            "description": "Yii2 extension for Sypex Geo API (http://sypexgeo.net)",
+            "homepage": "https://github.com/JiSoft/yii2-sypexgeo",
+            "keywords": [
+                "geo",
+                "geoip",
+                "geolocation",
+                "sypexgeo",
+                "yii2"
+            ],
+            "time": "2014-06-16T06:21:37+00:00"
+        },
+        {
             "name": "phpnt/yandex-map",
             "version": "dev-master",
             "source": {
@@ -258,6 +310,52 @@
                 "yii2"
             ],
             "time": "2017-04-28T16:29:40+00:00"
+        },
+        {
+            "name": "phpnt/yii2-sypexgeo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phpnt/yii2-sypexgeo.git",
+                "reference": "20400a4ee80fd90afb75c6e45b26833d91fa6447"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phpnt/yii2-sypexgeo/zipball/20400a4ee80fd90afb75c6e45b26833d91fa6447",
+                "reference": "20400a4ee80fd90afb75c6e45b26833d91fa6447",
+                "shasum": ""
+            },
+            "require": {
+                "jisoft/yii2-sypexgeo": "dev-master",
+                "php": ">=5.4.0",
+                "yiisoft/yii2": "*"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "phpnt\\geoData\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "phpNT",
+                    "email": "phpnt@phpnt.com",
+                    "homepage": "http://phpnt.com"
+                }
+            ],
+            "description": "Yii2 Sypexgeo",
+            "keywords": [
+                "geo",
+                "phpnt",
+                "sypexgeo",
+                "timezone",
+                "yii2"
+            ],
+            "time": "2016-07-30T09:32:06+00:00"
         },
         {
             "name": "rodzadra/geolocation",
@@ -3081,7 +3179,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "phpnt/yii2-sypexgeo": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

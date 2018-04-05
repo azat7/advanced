@@ -9,7 +9,7 @@ $params = array_merge(
 return [
     'id' => 'app-frontend',
     'basePath' => dirname(__DIR__),
-    'bootstrap' => ['log'],
+    'bootstrap' => ['log','geoData'],
     'controllerNamespace' => 'frontend\controllers',
     'components' => [
         'request' => [
@@ -36,6 +36,14 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
+        'geoData' => [
+            'class'             => 'phpnt\geoData\GeoData',         // путь к классу
+            'addToCookie'       => true,                            // сохранить в куки
+            'addToSession'      => true,                            // сохранить в сессии
+            'setTimezoneApp'    => true,                            // установить timezone в formatter (для вывода)
+            'cookieDuration'    => 2592000                          // время хранения в куки
+        ],
+        /*
         'geolocation' => [
             'class' => 'rodzadra\geolocation\Geolocation',
             'config' => [
@@ -44,7 +52,7 @@ return [
                 'api_key' => '',
             ],
         ],
-        /*
+        
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
